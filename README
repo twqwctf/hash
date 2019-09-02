@@ -1,0 +1,10 @@
+
+Source file:    index.c 
+
+To compile, use VP under A/UX on Mac II
+
+Exec file:   a.out 
+
+Executable command line argument format:
+
+	<exec file>  <buffering scheme (1..3)>  <rec file>   <searchkey file>
